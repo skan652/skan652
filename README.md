@@ -55,15 +55,15 @@
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skan654&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=skan654&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skan654&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=skan652&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=skan652&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skan652&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 *Check out my repositories below.*
 
 <!--
-**skan654/skan654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skan652/skan652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
