@@ -71,11 +71,13 @@
 ![Bash Scripting](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
 
-## Operating Systems:
+## Operating Systems
+
 ![Linux](https://img.shields.io/badge/linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=skan652&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skan652&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skan652&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
